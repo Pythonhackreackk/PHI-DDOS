@@ -34,6 +34,7 @@ Ighack is a bash based script which is officially made to test password strength
 * `git clone https://github.com/Pythonhackreackk/PHI-DDOS`
 * `cd PHI-DDOS`
 * `python2 phi-ddos.py`
+* 'python2 PHI-DDOS.py [IP Target] [8080] [100000]`
 ```
 [+]--Now you need internet connection to continue further process...
 
